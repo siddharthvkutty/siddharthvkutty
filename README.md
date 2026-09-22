@@ -36,7 +36,4 @@
 GitHub: [github.com/siddharthvkutty](https://github.com/siddharthvkutty)
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharthvkutty&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthvkutty&layout=compact" height="165"/>
-</p>
+[![Siddharth's GitHub stats](https://github-stats-extended.vercel.app/api?username=siddharthvkutty)](https://github.com/stats-organization/github-stats-extended)
