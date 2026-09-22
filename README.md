@@ -24,8 +24,12 @@
 | [jarvis-bot](https://github.com/siddharthvkutty/jarvis-bot) | Personal Discord bot, actively maintained |
 
 ### Tech stack
-
-Python · Flask · PyTorch · Discord.py
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white" />
+</p>
 
 ### Contact
 
