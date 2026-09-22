@@ -31,16 +31,12 @@
   <img src="https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white" />
 </p>
 
-[![My GitHub Stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### Contact
 
 GitHub: [github.com/siddharthvkutty](https://github.com/siddharthvkutty)
 
 ---
-
-<p align="center"><i>Feel free to explore my repos and drop a star if something's useful.</i></p>
-&username=siddharthvkutty&show_icons=true&theme=dracula
-[![Top Langs](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://herokuapp.com)](https://git.io)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharthvkutty&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthvkutty&layout=compact" height="165"/>
+</p>
