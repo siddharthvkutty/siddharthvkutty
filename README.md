@@ -38,4 +38,4 @@ GitHub: [github.com/siddharthvkutty](https://github.com/siddharthvkutty)
 ---
 [![Siddharth's GitHub stats](https://github-stats-extended.vercel.app/api?username=siddharthvkutty)](https://github.com/stats-organization/github-stats-extended)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=siddharthvkutty&layout=compact)](https://github.com/stats-organization/github-stats-extended)
-[![WakaTime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=siddharthvkutty)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=transparent)
