@@ -37,7 +37,5 @@ GitHub: [github.com/siddharthvkutty](https://github.com/siddharthvkutty)
 
 ---
 
-<p>
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=siddharthvkutty&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=siddharthvkutty&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=transparent)
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=siddharthvkutty&layout=compact&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=siddharthvkutty&layout=compact&langs_count=4&theme=transparent)
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=siddharthvkutty&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=siddharthvkutty&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=siddharthvkutty&layout=compact&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=siddharthvkutty&layout=compact&langs_count=4&theme=transparent)
