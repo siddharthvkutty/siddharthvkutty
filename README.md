@@ -20,8 +20,9 @@
 | [password-audit-tool](https://github.com/siddharthvkutty/password-audit-tool) | CLI password strength analyzer that simulates real-world attack strategies |
 | [permissioned-blockchain](https://github.com/siddharthvkutty/permissioned-blockchain) | A self-contained permissioned blockchain network with a Flask web GUI, cross-platform |
 | [qwen-python-lora](https://github.com/siddharthvkutty/qwen-python-lora) | Fine-tuning Qwen2.5-Coder-7B with LoRA/QLoRA for Python-specific coding tasks |
+| [log-inferer](https://github.com/siddharthvkutty/log-inferer) | Stress-testing three NLP models against linguistically difficult reviews |
 | [nlp-stress-test](https://github.com/siddharthvkutty/nlp-stress-test) | Stress-testing three NLP models against linguistically difficult reviews |
-| [jarvis-bot](https://github.com/siddharthvkutty/jarvis-bot) | Personal Discord bot, actively maintained |
+
 
 ### Tech stack
 <p>
